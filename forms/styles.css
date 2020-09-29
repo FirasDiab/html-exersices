@@ -1,0 +1,35 @@
+#one { 
+    margin-top: 10px;
+    margin-bottom: 75px;
+    margin-left: 75px;
+    margin-right: 75px;
+width:500px;
+height:50px;
+margin-bottom:75px;
+}
+ 
+#one1 {background-color: yellow;
+padding:10px;
+text-align-last: center;
+}
+
+#two {
+margin:75px;
+width:500px;
+height:50px;
+margin-top: 75px;
+margin-bottom: 50px;
+}
+#two1 {background-color: yellow;}
+
+#three {margin-top:75px;
+    margin-bottom: 5px;
+margin-left:75px;
+margin-right: 75px;
+width:500px;
+height:50px;}
+
+#three1 {background-color: yellow;
+text-align-last: center;}
+
+
